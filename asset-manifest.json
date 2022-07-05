@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netlax/static/css/main.d8ded1ad.css",
+    "main.js": "/netlax/static/js/main.e62f4cb1.js",
+    "static/media/logo.png": "/netlax/static/media/logo.a0e1876e0c3c775dbfcf.png",
+    "index.html": "/netlax/index.html",
+    "main.d8ded1ad.css.map": "/netlax/static/css/main.d8ded1ad.css.map",
+    "main.e62f4cb1.js.map": "/netlax/static/js/main.e62f4cb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ded1ad.css",
+    "static/js/main.e62f4cb1.js"
+  ]
+}
